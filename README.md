@@ -1,4 +1,3 @@
 # hello-world
-This is my tutorial repository weee
-
-Hi there, I'm lethal.  I'm playing around with coding in my spare time.
+This is my tutorial repository
+Using it as a sample to push to web apps.
